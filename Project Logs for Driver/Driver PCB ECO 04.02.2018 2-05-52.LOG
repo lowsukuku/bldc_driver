@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=+12V Pin=VD1-1
+Added Pin To Net: NetName=NetDA3_20 Pin=VD1-2
+Added Pin To Net: NetName=+12V Pin=VD2-1
+Added Pin To Net: NetName=NetDA3_24 Pin=VD2-2
+Added Pin To Net: NetName=+12V Pin=VD3-1
+Added Pin To Net: NetName=NetDA3_28 Pin=VD3-2

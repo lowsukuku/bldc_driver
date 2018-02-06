@@ -1,0 +1,9 @@
+Change Physical Footprint: Designator=DA2 Old Footprint=VSON8 New Footprint=VSON8
+Change Physical Footprint: Designator=R15 Old Footprint=RES2512 New Footprint=RES2512
+Change Physical Footprint: Designator=R18 Old Footprint=RES2512 New Footprint=RES2512
+Change Physical Footprint: Designator=Ñ2 Old Footprint=CAP1206 New Footprint=CAP1206
+Change Physical Footprint: Designator=Ñ11 Old Footprint=CAP0603 New Footprint=CAP0603
+Change Physical Footprint: Designator=Ñ16 Old Footprint=CAP0603 New Footprint=CAP0603
+Change Physical Footprint: Designator=Ñ17 Old Footprint=CAP0603 New Footprint=CAP0603
+Change Physical Footprint: Designator=Ñ23 Old Footprint=CAPD4 New Footprint=CAPD4
+Change Physical Footprint: Designator=Ñ25 Old Footprint=CAP0805 New Footprint=CAP0805

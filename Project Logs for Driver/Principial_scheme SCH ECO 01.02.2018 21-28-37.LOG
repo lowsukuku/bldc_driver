@@ -1,0 +1,116 @@
+Change Value of Parameter Resistance in Part R* Old=0.001 New=
+Change Value of Parameter Resistance in Part R* Old=1.3 М New=
+Change Value of Parameter Resistance in Part R* Old=1 к New=
+Change Value of Parameter Resistance in Part R* Old=1 к New=
+Change Value of Parameter Resistance in Part R* Old=10 к New=
+Change Value of Parameter Resistance in Part R* Old=10 к New=
+Change Value of Parameter Resistance in Part R* Old=31.6 к New=
+Change Value of Parameter Resistance in Part R* Old=41.2 к New=
+Change Value of Parameter Resistance in Part R* Old=41.2 к New=
+Change Value of Parameter Resistance in Part R* Old=97.6 к New=
+Change Value of Parameter Resistance in Part R* Old=97.6 к New=
+Change Value of Parameter Resistance in Part R* Old=97.6 к New=
+Change Value of Parameter Resistance in Part R* Old=100 New=
+Change Value of Parameter Resistance in Part R* Old=100 New=
+Change Value of Parameter Resistance in Part R* Old=100 New=
+Change Value of Parameter Resistance in Part R* Old=100 New=
+Change Value of Parameter Resistance in Part R* Old=100 New=
+Change Value of Parameter Resistance in Part R* Old=100 New=
+Change Value of Parameter Resistance in Part R* Old=107 к New=
+Change Value of Parameter Resistance in Part R* Old=130 к New=
+Change Value of Parameter Resistance in Part R* Old=140 к New=
+Change Value of Parameter Resistance in Part R* Old=220 к New=
+Change Value of Parameter Capacitance in Part С* Old=0.01 мк New=
+Change Value of Parameter Capacitance in Part С* Old=0.1 мк New=
+Change Value of Parameter Capacitance in Part С* Old=0.1 мк New=
+Change Value of Parameter Capacitance in Part С* Old=0.1 мк New=
+Change Value of Parameter Capacitance in Part С* Old=0.1 мк New=
+Change Value of Parameter Capacitance in Part С* Old=0.1 мк New=
+Change Value of Parameter Capacitance in Part С* Old=0.1 мк New=
+Change Value of Parameter Capacitance in Part С* Old=0.1 мк New=
+Change Value of Parameter Capacitance in Part С* Old=1 мк New=
+Change Value of Parameter Capacitance in Part С* Old=1 мк New=
+Change Value of Parameter Capacitance in Part С* Old=1 мк New=
+Change Value of Parameter Capacitance in Part С* Old=1 мк New=
+Change Value of Parameter Capacitance in Part С* Old=1 мк New=
+Change Value of Parameter Capacitance in Part С* Old=1 мк New=
+Change Value of Parameter Capacitance in Part С* Old=10 мк New=
+Change Value of Parameter Capacitance in Part С* Old=10 мк New=
+Change Value of Parameter Capacitance in Part С* Old=10 мк New=
+Change Value of Parameter Capacitance in Part С* Old=10 мк New=
+Change Value of Parameter Capacitance in Part С* Old=56 New=
+Change Value of Parameter Capacitance in Part С* Old=150 New=
+Change Value of Parameter Capacitance in Part С* Old=1800 New=
+Change Value of Parameter Capacitance in Part С* Old=2200 New=
+Change Value of Parameter Capacitance in Part С* Old=2200 New=
+Change Value of Parameter Capacitance in Part С* Old=2200 New=
+Change Value of Parameter Capacitance in Part С* Old=2200 New=
+Replace Symbol from DA* DC-DC36-12 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with DC-DC36-12 from GOST.SchLib
+Replace Symbol from DA* DC-DC36-3.3 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with DC-DC36-3.3 from GOST.SchLib
+Replace Symbol from DA* OPAMP in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with OPAMP from GOST.SchLib
+Replace Symbol from DA* DRIVER in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with DRIVER from GOST.SchLib
+Replace Symbol from DD* MCU in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with MCU from GOST.SchLib
+Replace Symbol from L* IND6X6 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with IND6X6 from GOST.SchLib
+Replace Symbol from L* IND3 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with IND3 from GOST.SchLib
+Replace Symbol from R* RES0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES0402 from GOST.SchLib
+Replace Symbol from R* RES0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES0402 from GOST.SchLib
+Replace Symbol from R* RES0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES0402 from GOST.SchLib
+Replace Symbol from R* RES0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES0402 from GOST.SchLib
+Replace Symbol from R* RES0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES0402 from GOST.SchLib
+Replace Symbol from R* RES0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES0402 from GOST.SchLib
+Replace Symbol from R* RES0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES0402 from GOST.SchLib
+Replace Symbol from R* RES0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES0402 from GOST.SchLib
+Replace Symbol from R* RES0603 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES0603 from GOST.SchLib
+Replace Symbol from R* RES0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES0402 from GOST.SchLib
+Replace Symbol from R* RES0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES0402 from GOST.SchLib
+Replace Symbol from R* RES0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES0402 from GOST.SchLib
+Replace Symbol from R* RES2512 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES2512 from GOST.SchLib
+Replace Symbol from R* RES2512 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES2512 from GOST.SchLib
+Replace Symbol from R* RES2512 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES2512 from GOST.SchLib
+Replace Symbol from R* RES2512 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES2512 from GOST.SchLib
+Replace Symbol from R* RES2512 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES2512 from GOST.SchLib
+Replace Symbol from R* RES2512 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES2512 from GOST.SchLib
+Replace Symbol from R* RES2512 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES2512 from GOST.SchLib
+Replace Symbol from R* RES0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES0402 from GOST.SchLib
+Replace Symbol from R* RES0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES0402 from GOST.SchLib
+Replace Symbol from R* RES0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RES0402 from GOST.SchLib
+Replace Symbol from VD* DIODE in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with DIODE from GOST.SchLib
+Replace Symbol from VD* DIODE in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with DIODE from GOST.SchLib
+Replace Symbol from VD* DIODE in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with DIODE from GOST.SchLib
+Replace Symbol from VT* MOSFET in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with MOSFET from GOST.SchLib
+Replace Symbol from VT* MOSFET in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with MOSFET from GOST.SchLib
+Replace Symbol from VT* MOSFET in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with MOSFET from GOST.SchLib
+Replace Symbol from VT* MOSFET in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with MOSFET from GOST.SchLib
+Replace Symbol from VT* MOSFET in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with MOSFET from GOST.SchLib
+Replace Symbol from VT* MOSFET in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with MOSFET from GOST.SchLib
+Replace Symbol from XP* SWDIO_CONNECTOR in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with SWDIO_CONNECTOR from GOST.SchLib
+Replace Symbol from XP* RESET_CONNECTOR in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with RESET_CONNECTOR from GOST.SchLib
+Replace Symbol from XP* HALL_CONNECTOR in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with HALL_CONNECTOR from GOST.SchLib
+Replace Symbol from XP* BOOT0_CONNECTOR in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with BOOT0_CONNECTOR from GOST.SchLib
+Replace Symbol from XT* POWER_CONNECTOR in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with POWER_CONNECTOR from GOST.SchLib
+Replace Symbol from XT* PHASE_CONNECTOR in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with PHASE_CONNECTOR from GOST.SchLib
+Replace Symbol from С* CAP0603 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0603 from GOST.SchLib
+Replace Symbol from С* CAP0603 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0603 from GOST.SchLib
+Replace Symbol from С* CAP0603 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0603 from GOST.SchLib
+Replace Symbol from С* CAP0603 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0603 from GOST.SchLib
+Replace Symbol from С* CAP0603 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0603 from GOST.SchLib
+Replace Symbol from С* CAPD4 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAPD4 from GOST.SchLib
+Replace Symbol from С* CAP0603 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0603 from GOST.SchLib
+Replace Symbol from С* CAP0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0402 from GOST.SchLib
+Replace Symbol from С* CAP0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0402 from GOST.SchLib
+Replace Symbol from С* CAP0603 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0603 from GOST.SchLib
+Replace Symbol from С* CAP0805 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0805 from GOST.SchLib
+Replace Symbol from С* CAP1206 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP1206 from GOST.SchLib
+Replace Symbol from С* CAPD4 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAPD4 from GOST.SchLib
+Replace Symbol from С* CAP0603 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0603 from GOST.SchLib
+Replace Symbol from С* CAP0805 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0805 from GOST.SchLib
+Replace Symbol from С* CAP0603 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0603 from GOST.SchLib
+Replace Symbol from С* CAP1206 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP1206 from GOST.SchLib
+Replace Symbol from С* CAP0402 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0402 from GOST.SchLib
+Replace Symbol from С* CAPD4 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAPD4 from GOST.SchLib
+Replace Symbol from С* CAP0603 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0603 from GOST.SchLib
+Replace Symbol from С* CAPD4 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAPD4 from GOST.SchLib
+Replace Symbol from С* CAP0603 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0603 from GOST.SchLib
+Replace Symbol from С* CAPD4 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAPD4 from GOST.SchLib
+Replace Symbol from С* CAP0603 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0603 from GOST.SchLib
+Replace Symbol from С* CAP0805 in C:\Users\Господин\OneDrive\Курсовой_электроника\Driver\Principial_scheme.SchDoc with CAP0805 from GOST.SchLib
